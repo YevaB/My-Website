@@ -1,0 +1,35 @@
+body {
+	background-color: #C0C0C0;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+header .row {
+	display: flex;
+  	align-items: center;
+  	text-align: center;
+}
+.jumbotron {
+	display: flex;
+	background-image: url("rvaskyline.jpg");
+	background-size: cover;
+	height: 400px;
+}
+header {
+	padding: 20px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+section h2 {
+	padding: 20px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-align: center;
+}
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+
+.col-md-4 {
+  margin: 0 0 30px;
+}
+figure h3{
+	text-align: center;
+}
